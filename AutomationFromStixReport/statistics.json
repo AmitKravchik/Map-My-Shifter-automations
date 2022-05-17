@@ -1,0 +1,767 @@
+{
+    "alertflex": {
+        "from_stix_map.json": {
+            "Coverage Statistics": [
+                "17.65%",
+                "12 of 68 STIX fields",
+                "2 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (0/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (4/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (0/1)",
+                "MAC Address (0/1)",
+                "Network Traffic (4/3)",
+                "Process (2/4)",
+                "Software (0/4)",
+                "URL (0/1)",
+                "User Account (1/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    },
+    "arcsight": {
+        "from_stix_map.json": {
+            "Coverage Statistics": [
+                "23.53%",
+                "16 of 68 STIX fields",
+                "7 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (1/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (4/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (2/3)",
+                "Process (2/4)",
+                "Software (0/4)",
+                "URL (0/1)",
+                "User Account (2/7)",
+                "Windows\u2122 Registry Key (1/4)"
+            ]
+        }
+    },
+    "async_dummy": {
+        "dialect1_from_stix_map.json": {
+            "Coverage Statistics": [
+                "14.71%",
+                "10 of 68 STIX fields",
+                "6 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (1/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (1/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (2/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (1/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        },
+        "dialect2_from_stix_map.json": {
+            "Coverage Statistics": [
+                "14.71%",
+                "10 of 68 STIX fields",
+                "6 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (1/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (1/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (2/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (1/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    },
+    "aws_athena": {
+        "guardduty_from_stix_map.json": {
+            "Coverage Statistics": [
+                "14.71%",
+                "10 of 68 STIX fields",
+                "6 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (1/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (1/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (2/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (1/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        },
+        "vpcflow_from_stix_map.json": {
+            "Coverage Statistics": [
+                "14.71%",
+                "10 of 68 STIX fields",
+                "6 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (1/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (1/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (2/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (1/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    },
+    "aws_cloud_watch_logs": {
+        "guardduty_from_stix_map.json": {
+            "Coverage Statistics": [
+                "10.29%",
+                "7 of 68 STIX fields",
+                "4 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (0/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (0/1)",
+                "Network Traffic (2/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (0/1)",
+                "User Account (2/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        },
+        "vpcflow_from_stix_map.json": {
+            "Coverage Statistics": [
+                "5.88%",
+                "4 of 68 STIX fields",
+                "2 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (0/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (0/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (0/1)",
+                "Network Traffic (2/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (0/1)",
+                "User Account (0/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    },
+    "aws_security_hub": {
+        "from_stix_map.json": {
+            "Coverage Statistics": [
+                "13.24%",
+                "9 of 68 STIX fields",
+                "6 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (1/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (0/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (2/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (1/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    },
+    "azure_sentinel": {
+        "from_stix_map.json": {
+            "Coverage Statistics": [
+                "30.88%",
+                "21 of 68 STIX fields",
+                "7 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (1/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (4/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (0/1)",
+                "Network Traffic (2/3)",
+                "Process (4/4)",
+                "Software (3/4)",
+                "URL (0/1)",
+                "User Account (3/7)",
+                "Windows\u2122 Registry Key (1/4)"
+            ]
+        }
+    },
+    "bigfix": {
+        "from_stix_map.json": {
+            "Coverage Statistics": [
+                "17.65%",
+                "12 of 68 STIX fields",
+                "3 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (0/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (5/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (2/3)",
+                "Process (2/4)",
+                "Software (0/4)",
+                "URL (0/1)",
+                "User Account (0/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    },
+    "carbonblack": {
+        "from_stix_map.json": {
+            "Coverage Statistics": [
+                "23.53%",
+                "16 of 68 STIX fields",
+                "7 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (1/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (3/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (0/1)",
+                "Network Traffic (2/3)",
+                "Process (4/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (1/7)",
+                "Windows\u2122 Registry Key (1/4)"
+            ]
+        }
+    },
+    "cbcloud": {
+        "from_stix_map.json": {
+            "Coverage Statistics": [
+                "25%",
+                "17 of 68 STIX fields",
+                "6 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (3/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (0/1)",
+                "Network Traffic (2/3)",
+                "Process (4/4)",
+                "Software (3/4)",
+                "URL (1/1)",
+                "User Account (1/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    },
+    "crowdstrike": {
+        "from_stix_map.json": {
+            "Coverage Statistics": [
+                "20.59%",
+                "14 of 68 STIX fields",
+                "7 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (1/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (3/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (0/3)",
+                "Process (3/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (2/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    },
+    "csa": {
+        "at_from_stix_map.json": {
+            "Coverage Statistics": [
+                "11.76%",
+                "8 of 68 STIX fields",
+                "5 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (1/2)",
+                "Email Message (0/5)",
+                "File (1/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (0/1)",
+                "MAC Address (0/1)",
+                "Network Traffic (0/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (3/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        },
+        "from_stix_map.json": {
+            "Coverage Statistics": [
+                "14.71%",
+                "10 of 68 STIX fields",
+                "6 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (1/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (1/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (2/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (1/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        },
+        "nf_from_stix_map.json": {
+            "Coverage Statistics": [
+                "10.29%",
+                "7 of 68 STIX fields",
+                "4 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (1/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (0/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (2/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (0/1)",
+                "User Account (0/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    },
+    "elastic_ecs": {
+        "from_stix_map.json": {
+            "Coverage Statistics": [
+                "35.29%",
+                "24 of 68 STIX fields",
+                "10 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (1/6)",
+                "AS (1/3)",
+                "Directory (1/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (6/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (2/3)",
+                "Process (4/4)",
+                "Software (1/4)",
+                "URL (1/1)",
+                "User Account (2/7)",
+                "Windows\u2122 Registry Key (1/4)"
+            ]
+        }
+    },
+    "guardium": {
+        "qsearch_from_stix_map.json": {
+            "Coverage Statistics": [
+                "4.41%",
+                "3 of 68 STIX fields",
+                "3 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (0/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (0/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (0/1)",
+                "Network Traffic (0/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (0/1)",
+                "User Account (1/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        },
+        "report_from_stix_map.json": {
+            "Coverage Statistics": [
+                "7.35%",
+                "5 of 68 STIX fields",
+                "4 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (1/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (0/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (0/1)",
+                "Network Traffic (0/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (0/1)",
+                "User Account (1/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    },
+    "msatp": {
+        "from_stix_map.json": {
+            "Coverage Statistics": [
+                "27.94%",
+                "19 of 68 STIX fields",
+                "8 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (1/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (4/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (2/3)",
+                "Process (4/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (2/7)",
+                "Windows\u2122 Registry Key (1/4)"
+            ]
+        }
+    },
+    "mysql": {
+        "from_stix_map.json": {
+            "Coverage Statistics": [
+                "14.71%",
+                "10 of 68 STIX fields",
+                "5 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (1/5)",
+                "Domain Name (0/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (3/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (0/1)",
+                "Network Traffic (2/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (1/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    },
+    "qradar": {
+        "events_from_stix_map.json": {
+            "Coverage Statistics": [
+                "29.41%",
+                "20 of 68 STIX fields",
+                "8 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (1/6)",
+                "AS (0/3)",
+                "Directory (1/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (5/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (2/3)",
+                "Process (3/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (2/7)",
+                "Windows\u2122 Registry Key (1/4)"
+            ]
+        },
+        "flows_from_stix_map.json": {
+            "Coverage Statistics": [
+                "19.12%",
+                "13 of 68 STIX fields",
+                "5 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (1/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (5/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (0/1)",
+                "Network Traffic (2/3)",
+                "Process (0/4)",
+                "Software (1/4)",
+                "URL (1/1)",
+                "User Account (0/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    },
+    "splunk": {
+        "event_from_stix_map.json": {
+            "Coverage Statistics": [
+                "19.12%",
+                "13 of 68 STIX fields",
+                "5 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (1/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (5/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (0/1)",
+                "Network Traffic (2/3)",
+                "Process (0/4)",
+                "Software (1/4)",
+                "URL (1/1)",
+                "User Account (0/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    },
+    "synchronous_dummy": {
+        "dialect1_from_stix_map.json": {
+            "Coverage Statistics": [
+                "14.71%",
+                "10 of 68 STIX fields",
+                "6 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (1/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (1/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (2/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (1/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        },
+        "dialect2_from_stix_map.json": {
+            "Coverage Statistics": [
+                "14.71%",
+                "10 of 68 STIX fields",
+                "6 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (1/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (1/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (1/1)",
+                "Network Traffic (2/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (1/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    },
+    "trendmicro_vision_one": {
+        "endpointActivityData_from_stix_map.json": {
+            "Coverage Statistics": [
+                "16.18%",
+                "11 of 68 STIX fields",
+                "6 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (0/5)",
+                "File (1/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (0/1)",
+                "Network Traffic (2/3)",
+                "Process (1/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (2/7)",
+                "Windows\u2122 Registry Key (1/4)"
+            ]
+        },
+        "messageActivityData_from_stix_map.json": {
+            "Coverage Statistics": [
+                "10.29%",
+                "7 of 68 STIX fields",
+                "4 of 12 required STIX fields"
+            ],
+            "Coverage Count": [
+                "Artifact (0/6)",
+                "AS (0/3)",
+                "Directory (0/5)",
+                "Domain Name (1/1)",
+                "Email Address (0/2)",
+                "Email Message (1/5)",
+                "File (2/12)",
+                "IPv4 Address (1/1)",
+                "IPv6 Address (1/1)",
+                "MAC Address (0/1)",
+                "Network Traffic (0/3)",
+                "Process (0/4)",
+                "Software (0/4)",
+                "URL (1/1)",
+                "User Account (0/7)",
+                "Windows\u2122 Registry Key (0/4)"
+            ]
+        }
+    }
+}
