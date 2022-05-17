@@ -3,10 +3,10 @@ import json
 from pathlib import Path
 
 # change to your local chrome driver path
-DRIVER_PATH = 'C:/Users/amita/Downloads/chromedriver_win32/chromedriver.exe'
+DRIVER_PATH = ''
 
 # change to your local stix shifter modules directory
-BASE_PATH = "C:/Users/amita/Desktop/IBM/stix-shifter-develop/stix-shifter-develop/stix_shifter_modules"
+BASE_PATH = ""
 
 # change to your local outpus path
 OUTPUT_FILE_PATH = "statistics.json"
